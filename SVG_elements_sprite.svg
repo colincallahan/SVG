@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="understand" viewBox="0 0 150.57 130.4">
+    <title>Understand symbol</title>
+    <polygon points="75.29 1 0.87 129.9 149.71 129.9 75.29 1" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <circle cx="75.48" cy="64.73" r="6.19"  stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </symbol>
+
+
+  <symbol id="transcend" viewBox="0 0 164.3 142.29">
+    <title>Transcend symbol</title>
+    <polygon points="82.15 1 0.87 141.79 163.44 141.79 82.15 1" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="20.31" y1="52.53" x2="148.31" y2="52.53" stroke="#000" stroke-miterlimit="10"/>
+  </symbol>
+
+  <symbol id="reflect" viewBox="0 0 171.44 102.49">
+    <title>Reflect symbol</title>
+    <polygon points="85.94 51.25 0.5 0.89 0.5 101.62 85.94 51.25" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <polygon points="85.94 51.24 170.94 101.61 170.94 0.88 85.94 51.24" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </symbol>
+
+  <symbol id="protect"  viewBox="0 0 168.79 159.33">
+    <title>Protect symbol</title>
+    <path d="M166.5,74.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M38.5,74.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M81.5,163.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M43.5,121.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M129.5,163.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M65.5,83.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M166.5,163.5" transform="translate(-12.46 -9.72)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M82.5,56.5" transform="translate(-12.46 -9.72)" troke="#000" stroke-miterlimit="10"/>
+    <ellipse cx="88.87" cy="99.61" rx="15.17" ry="10.98" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="0.5" y1="158.83" x2="83.16" y2="0.95" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="83.61" y1="0.5" x2="168.29" y2="158.61" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </symbol>
+
+  <symbol id="learn" viewBox="0 0 164.3 164.42">
+    <title>Learn symbol</title>
+    <polygon points="82.15 23.12 0.87 163.91 163.44 163.91 82.15 23.12" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M166.5,74.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M38.5,74.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M81.5,163.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M43.5,121.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M129.5,163.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M65.5,83.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M166.5,163.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M82.5,56.5" transform="translate(-19.19 -8.85)" stroke="#000" stroke-miterlimit="10"/>
+    <ellipse cx="82.14" cy="11.48" rx="15.17" ry="10.98" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </symbol>
+
+
+  <symbol id="express" viewBox="0 0 164.3 142.29">
+    <title>Express symbol</title>
+    <polygon points="82.15 1 0.87 141.79 163.44 141.79 82.15 1" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M166.5,74.5" transform="translate(-18.19 -21.97)" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M38.5,74.5" transform="translate(-18.19 -21.97)" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="25.31" y1="99.53" x2="63.31" y2="141.53" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="47.31" y1="61.53" x2="111.31" y2="141.53" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="64.31" y1="34.53" x2="148.31" y2="141.53" stroke="#000" stroke-miterlimit="10"/>
+  </symbol>
+
+
+  <symbol id="create" viewBox="0 0 145.08 125.64">
+    <title>Create symbol</title>
+    <polygon points="72.54 1 0.87 125.14 144.21 125.14 72.54 1" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="41.68" y1="54.89" x2="103.68" y2="54.89" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="73.68" y1="54.89" x2="73.68" y2="124.89" stroke="#000" stroke-miterlimit="10"/>
+  </symbol>
+
+
+</svg>
